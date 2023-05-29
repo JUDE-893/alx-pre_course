@@ -1,0 +1,6 @@
+ 
+git command line to Get all changes of the main branch locally is :
+
+git pull origin --> to update from github locally. 
+Then
+git log --> to sort all changes history 
